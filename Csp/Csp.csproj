@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;netstandard2.1;netstandard2.0</TargetFrameworks>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Authors>Iain McDonald</Authors>
+    <Company>Life Beyond Fife</Company>
+    <Title>Decider</Title>
+    <PackageId>Decider</PackageId>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageDescription>An Open Source .Net Constraint Programming Solver</PackageDescription>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/lifebeyondfife/Decider</RepositoryUrl>
+    <Version>1.0.5</Version>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+</Project>
